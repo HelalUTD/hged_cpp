@@ -1,0 +1,1 @@
+gcc -static -L/home/helal/igraph/igraph-0.10.11/build/src -I/home/helal/igraph/igraph-0.10.11/include -I/home/helal/igraph/igraph-0.10.11/build/include test.c -ligraph -lm
